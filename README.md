@@ -1,7 +1,6 @@
 ### Color detector
 
-The code detects specific colors and makes a bounding box around the same and labels the color detected right above the bounding box. 
-Each code above is a step I utilised, such as the making of a mask, to get to the final project which can be accessed in attempt3
+The code detects specific colors, draws a bounding box around them, and labels the detected color above the bounding box. Each step, including mask creation, contributes to the final project, accessible in attempt3.
 
 Here's an image of the working of the same!
 
